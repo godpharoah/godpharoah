@@ -51,5 +51,5 @@ I bring together development and exploitation skills to deliver efficient and da
 - **Discord**: `pharoah0` [Click to Add](https://discord.com/users/962857029377081394)
 
 <div align="center">
-  <img src="https://lanyard-profile-readme.vercel.app/api/123456789123456789?theme=dark&bg=141321&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=On the hunt...">
+  <img src="https://lanyard.cnrad.dev/api/962857029377081394?theme=dark&bg=141321&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=On the hunt...">
 </div>
