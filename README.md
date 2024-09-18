@@ -1,6 +1,6 @@
 <div style="display: flex;">
   <div>
-    <img src="https://cdn.discordapp.com/attachments/1274534902817095754/1286041077043695717/ezgif-7-58024c4431.gif?ex=66ec7696&is=66eb2516&hm=77076d984755b02e91e371055e3656fbbb4ccc4e31236211c9d2fd5478f6af84&" alt="Profile Image" style="border-radius: 50%; width: 150px; margin-right: 20px;">
+    <img src="https://cdn.discordapp.com/attachments/1274534902817095754/1286048847075868844/removal.ai_e037937a-774e-4668-a4c2-d46803f01ef4-img.png?ex=66ec7dd2&is=66eb2c52&hm=ba5027713c496270a512493349a775e249a428b79f5e3b16b7cb1a2a81cc9bd7&" alt="Profile Image" style="border-radius: 50%; width: 150px; margin-right: 20px;">
   </div>
   <div>
     <h1>🖤 [pharoah] | System Exploiter 🖤</h1>
@@ -47,10 +47,8 @@ I bring together development and exploitation skills to deliver efficient and da
 ---
 
 ### ⚙️ Contact Me:
-- **GitHub**: [Your Alias](https://github.com/yourprofile)
-- **Twitter**: [@YourAlias](https://twitter.com/yourprofile)
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)
-- **Discord**: `YourAlias#1234` [Click to Add](https://discord.com/users/YourDiscordID)
+- **Email**: [pharoah](pharoah@gtfcy37qyzor7kb6blz2buwuu5u7qjkycasjdf3yaslibkbyhsxub4yd.onion)
+- **Discord**: `pharoah0` [Click to Add](https://discord.com/users/962857029377081394)
 
 <div align="center">
   <img src="https://lanyard-profile-readme.vercel.app/api/123456789123456789?theme=dark&bg=141321&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=On the hunt...">
